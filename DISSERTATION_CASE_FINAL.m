@@ -118,27 +118,5 @@ mpc.bus_name = {
 	'Bus 17    Sale BSP';
 };
 
-% Warnings from cdf2matp conversion:
-%
-% ***** check the title format in the first line of the cdf file.
-% ***** Qmax = Qmin at generator at bus    1 (Qmax set to Qmin + 10)
-% ***** MVA limit of branch 1 - 2 not given, set to 0
-% ***** MVA limit of branch 1 - 5 not given, set to 0
-% ***** MVA limit of branch 2 - 3 not given, set to 0
-% ***** MVA limit of branch 2 - 4 not given, set to 0
-% ***** MVA limit of branch 2 - 5 not given, set to 0
-% ***** MVA limit of branch 3 - 4 not given, set to 0
-% ***** MVA limit of branch 4 - 5 not given, set to 0
-% ***** MVA limit of branch 4 - 7 not given, set to 0
-% ***** MVA limit of branch 4 - 9 not given, set to 0
-% ***** MVA limit of branch 5 - 6 not given, set to 0
-% ***** MVA limit of branch 6 - 11 not given, set to 0
-% ***** MVA limit of branch 6 - 12 not given, set to 0
-% ***** MVA limit of branch 6 - 13 not given, set to 0
-% ***** MVA limit of branch 7 - 8 not given, set to 0
-% ***** MVA limit of branch 7 - 9 not given, set to 0
-% ***** MVA limit of branch 9 - 10 not given, set to 0
-% ***** MVA limit of branch 9 - 14 not given, set to 0
-% ***** MVA limit of branch 10 - 11 not given, set to 0
 % ***** MVA limit of branch 12 - 13 not given, set to 0
 % ***** MVA limit of branch 13 - 14 not given, set to 0
