@@ -20,6 +20,6 @@ Output — per-case CSV load, active EV counts, and discharge/charge histograms
 
 Dependencies
 
-MATLAB R2022b or later
-MATLAB Statistics and Machine Learning toolbox
-MATPOWER 8.1
+MATLAB R2022b or later.
+MATLAB Statistics and Machine Learning toolbox.
+MATPOWER 8.1.
